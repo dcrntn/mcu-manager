@@ -18,12 +18,11 @@ This project is intended to be run on a SBC e.g (raspberry). However as of now n
 The planned and already implemented functions of the software. In the end all function should be combined into an ESP32 library for easier use.
 ### Implemented
 1. Get mcu's IP with UDP packet on local network. [esp32-udp-ip-get](https://github.com/dcrntn/esp32-udp-ip-get)
-
+2. rAPI to communicate [data-concentrator](https://github.com/dcrntn/data-concentrator)
 ### Not implemented
-1. API to read and write the controllers.
-2. OTA update
-3. GUI 
-4. ESP32 library
+1. OTA update
+2. GUI 
+3. ESP32 library
 
 ## Installation
 1. Clone or download this repo.
